@@ -1,0 +1,2 @@
+dotenv
+firebase-admin
